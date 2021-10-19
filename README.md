@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 First readme on github, learning tricks and basics for git.
 
 testing diff
+
+
+Copyright purposes
