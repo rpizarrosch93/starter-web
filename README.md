@@ -13,5 +13,6 @@ First readme on github, learning tricks and basics for git.
 
 testing diff
 
+Adding a line for rebasing example 
 
 Copyright purposes
